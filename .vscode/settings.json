@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.port": 5502,
+    "files.associations": {
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp"
+    }
+}
